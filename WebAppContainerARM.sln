@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "WebAppContainerARM", "WebAppContainerARM\WebAppContainerARM.deployproj", "{47760C7B-C41A-4B70-AF29-2A280D6B519F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47760C7B-C41A-4B70-AF29-2A280D6B519F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47760C7B-C41A-4B70-AF29-2A280D6B519F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47760C7B-C41A-4B70-AF29-2A280D6B519F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47760C7B-C41A-4B70-AF29-2A280D6B519F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70B157A6-8460-4714-A82B-EE3C249B8502}
+	EndGlobalSection
+EndGlobal
